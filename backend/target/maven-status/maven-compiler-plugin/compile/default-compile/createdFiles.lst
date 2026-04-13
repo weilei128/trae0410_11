@@ -1,0 +1,5 @@
+com\example\usermanagement\model\User.class
+com\example\usermanagement\util\JsonFileUtil$1.class
+com\example\usermanagement\controller\UserController.class
+com\example\usermanagement\util\JsonFileUtil.class
+com\example\usermanagement\UserManagementApplication.class
